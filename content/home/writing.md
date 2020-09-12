@@ -4,7 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 headless = true
-active = true
+active = false
 weight = 5
 
 title = "Writing"
