@@ -62,8 +62,8 @@ user_groups:
 - Visitors
 ---
 
-I am a first-year student at Yale University studying physics. I have academic interests in applied statistics and cosmology. 
+I'm a first-year at Yale University studying physics, and I'm interested in applied statistics and cosmology. 
 
-In highschool, I was a USA International Astronomy Olympiad team member (Honorable Mention) and radio astronomy researcher. I strongly believe in physics outreach as a tool for mending educational inequalities. 
+In highschool, I was a USA International Astronomy Olympiad team member (Honorable Mention) and radio astronomy researcher. 
 
-I like to bike, try new Tex-Mex, and stargaze. You can read my CV here. 
+I strongly believe in physics outreach as a tool for mending educational inequalities. I like to bike, try Tex-Mex, and stargaze. You can read my CV here. 
