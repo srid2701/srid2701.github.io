@@ -62,7 +62,7 @@ user_groups:
 - Visitors
 ---
 
-I'm a first-year at Yale University studying physics, and I'm interested in applied statistics and cosmology. 
+I'm a first-year at Yale University studying physics. My academic interests are in applied statistics and cosmology. 
 
 In highschool, I was a USA International Astronomy Olympiad team member (Honorable Mention) and radio astronomy researcher. 
 
