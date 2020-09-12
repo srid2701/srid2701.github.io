@@ -14,12 +14,12 @@
   weight = 2
 
 [[main]]
-  name = "Notes"
+  name = "Projects"
   url = "#lectures"
   weight = 3
 
 [[main]]
-  name = "Tutoring"
+  name = "Awards"
   url = "#tutoring"
   weight = 4
 
