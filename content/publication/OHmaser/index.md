@@ -23,3 +23,5 @@ abstract: We present results of the high angular resolution survey of the OH gro
 summary: We present results of the high angular resolution survey of the OH ground state masers in galactic star forming regions, with the goal to study broadening of the maser spots by interstellar scattering.
 
 featured: false
+
+---
