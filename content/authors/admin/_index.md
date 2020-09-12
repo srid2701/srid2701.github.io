@@ -66,4 +66,4 @@ I'm a first-year at Yale University studying physics. My academic interests are 
 
 In highschool, I was a USA International Astronomy Olympiad team member (Honorable Mention) and radio astronomy researcher. 
 
-I strongly believe in physics outreach as a tool for mending educational inequalities. I like to bike, cook Tex-Mex, and stargaze. You can read my CV {{% staticref "Files/SriCV.pdf" "newtab" %}}here{{% /staticref %}}. 
+I strongly believe in physics outreach as a tool for mending educational inequalities. I like to bike, cook Tex-Mex, and stargaze. You can read my CV {{% staticref "files/SriCV.pdf" %}}here{{% /staticref %}}. 
