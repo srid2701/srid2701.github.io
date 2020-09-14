@@ -65,7 +65,7 @@ user_groups:
 - Visitors
 ---
 
-I'm a first-year at Yale University studying physics and statistics. I am usually working on random side projects and have worked with a variety of technologies, from radio telescopes to machine learning algorithms. 
+I'm a first-year at Yale University studying physics and statistics. I am usually working on random side projects. These include a variety of technologies, from radio telescopes to machine learning algorithms. 
 
 My academic interests are in applied statistics and cosmology. In highschool, I was a USA International Astronomy Olympiad team member (Honorable Mention) and radio astronomy researcher. You can read my CV {{% staticref "files/SriCV.pdf" %}}here{{% /staticref %}}. 
 
